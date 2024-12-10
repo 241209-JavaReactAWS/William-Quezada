@@ -12,8 +12,7 @@ p {
 h2 {
     color:seagreen;
     font-style: italic;
-    border-style: dotted;
-    border-color: red;
+    
     
 }
 
@@ -25,4 +24,9 @@ ul {
 li {
     color: crimson;
     font-style: italic;
+}
+
+section {
+    border-style: dotted;
+    border-color: red;
 }
