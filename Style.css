@@ -1,0 +1,28 @@
+
+body {background-color: tan;}
+h1 {
+color: goldenrod;
+font-style: italic;
+}
+p {
+    color: aqua;
+    font-style: italic;
+}
+
+h2 {
+    color:seagreen;
+    font-style: italic;
+    border-style: dotted;
+    border-color: red;
+    
+}
+
+ul {
+    color:red;
+    font-style: italic;
+    
+}
+li {
+    color: crimson;
+    font-style: italic;
+}
